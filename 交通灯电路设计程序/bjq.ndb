@@ -1,0 +1,159 @@
+NDB006
+The number of symbol table entries is: 4
+The length of the symbol table is: 45
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|74107:5|
+8	|74192:23|
+C	|74192:53|
+
+The number of name info structs is : 144
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:100	"M
+#	IGdW	!	:101	"L
+$	IGdW	!	:105	"\
+%	IGdW	!	:14	"Z
+&	IGdW	!	:22	"T
+'	IGdW	!	:26	"g
+(	IGdW	!	:30	"_
+)	IGdW	!	:32	"^
+*	IGdW	!	:34	"`
++	IGdW	!	:35	"[
+,	IGdW	!	:36	"Q
+-	IGdW	!	:37	"h
+.	IGdW	!	:40	"S
+/	IGdW	!	:42	"R
+0	IGdW	!	:47	"f
+1	IGdW	!	:6	"K
+2	IGdW	!	:7	"U
+3	IGdW	!	:70	"e
+4	IGdW	!	:72	"P
+5	IGdW	!	:73	"d
+6	IGdW	!	:74	"b
+7	IGdW	!	:75	"a
+8	IGdW	!	:76	"c
+9	IGdW	!	:8	"W
+:	IGdW	!	:9	"V
+;	IGdW	!	:90	"i
+<	IGdW	!	:91	"j
+=	IGdW	!	:92	"k
+>	IGdW	!	:94	"]
+?	IGdW	!	:95	"X
+@	IGdW	!	:97	"Y
+A	IGdW	!	:98	"O
+B	IGdW	!	:99	"N
+C	Ky&|	!	4	F	G	H	I	cp	}
+D	IGdq	!	G	y
+E	IGdq	!	G1	z
+F	Ky&}	!	10	F	G	H	I	J	K	L	M	V	Y	Q0A	w
+G	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	3	Q0B	p
+H	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	2	Q0C	r
+I	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	1	Q0D	q
+J	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	4	Q1A	v
+K	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	3	Q1B	u
+L	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	2	Q1C	t
+M	P}g7	!	10	F	G	H	I	J	K	L	M	V	Y	1	Q1D	s
+N	IGdq	!	R	o
+O	IGdq	!	R1	{
+P	IGdq	!	Y	|
+Q	IGdq	!	Y1	x
+R	INvO	.	V	1Q	#"
+S	INu}	.	X	1QN	"}
+T	INvO	.	Y	2Q	#!
+U	INu}	.	W	2QN	"~
+V	L)p/	.	R	9	D	E	J	N	O	P	Q	Y	V	:1	#"
+W	IVOQ	.	U	:15	"~
+X	IVOQ	.	S	:16	"}
+Y	L)p/	.	T	7	D	E	N	O	P	Q	Y	:2	#!
+Z	IGdW	8	:100	#[
+[	IGdW	8	:101	#Z
+\	IGdW	8	:102	#Y
+]	IGdW	8	:103	#X
+^	IGdW	8	:13	#B
+_	IGdW	8	:14	#C
+`	IGdW	8	:15	#D
+a	IGdW	8	:16	#E
+b	IGdW	8	:21	#F
+c	IGdW	8	:22	#G
+d	IVOA	8	"'	:23	#I
+e	IVOA	8	"&	:24	#J
+f	IVOA	8	"%	:25	#K
+g	IVOA	8	"$	:26	#L
+h	IVOQ	8	""	:28	#M
+i	IGdW	8	:43	#8
+j	IGdW	8	:44	#9
+k	IGdW	8	:45	#:
+l	IGdW	8	:46	#;
+m	IGdW	8	:47	#<
+n	IGdW	8	:48	#=
+o	IGdW	8	:51	#P
+p	IGdW	8	:52	#R
+q	IGdW	8	:53	#S
+r	IGdW	8	:54	#T
+s	IGdW	8	:55	#U
+t	IGdW	8	:71	#H
+u	IGdW	8	:72	#V
+v	IGdW	8	:73	#O
+w	IGdW	8	:74	#N
+x	IGdW	8	:76	#Q
+y	IVOQ	8	"#	:77	#W
+z	IGdW	8	:92	#>
+{	IGdW	8	:93	#?
+|	IGdW	8	:94	#@
+}	IGdW	8	:95	#A
+~	IGdW	8	:98	#6
+"!	IGdW	8	:99	#7
+""	INu}	8	h	BON	#M
+"#	INu}	8	y	CON	#W
+"$	INum	8	g	QA	#L
+"%	INum	8	f	QB	#K
+"&	INum	8	e	QC	#J
+"'	INum	8	d	QD	#I
+"(	IGdW	C	:100	$6
+")	IGdW	C	:101	$5
+"*	IGdW	C	:102	$4
+"+	IGdW	C	:103	$3
+",	IGdW	C	:13	#{
+"-	IGdW	C	:14	#|
+".	IGdW	C	:15	#}
+"/	IGdW	C	:16	#~
+"0	IGdW	C	:21	$!
+"1	IGdW	C	:22	$"
+"2	IVOA	C	"S	:23	$$
+"3	IVOA	C	"R	:24	$%
+"4	IVOA	C	"Q	:25	$&
+"5	IVOA	C	"P	:26	$'
+"6	IVOQ	C	"N	:28	$(
+"7	IGdW	C	:43	#q
+"8	IGdW	C	:44	#r
+"9	IGdW	C	:45	#s
+":	IGdW	C	:46	#t
+";	IGdW	C	:47	#u
+"<	IGdW	C	:48	#v
+"=	IGdW	C	:51	$+
+">	IGdW	C	:52	$-
+"?	IGdW	C	:53	$.
+"@	IGdW	C	:54	$/
+"A	IGdW	C	:55	$0
+"B	IGdW	C	:71	$#
+"C	IGdW	C	:72	$1
+"D	IGdW	C	:73	$*
+"E	IGdW	C	:74	$)
+"F	IGdW	C	:76	$,
+"G	IVOQ	C	"O	:77	$2
+"H	IGdW	C	:92	#w
+"I	IGdW	C	:93	#x
+"J	IGdW	C	:94	#y
+"K	IGdW	C	:95	#z
+"L	IGdW	C	:98	#o
+"M	IGdW	C	:99	#p
+"N	INu}	C	"6	BON	$(
+"O	INu}	C	"G	CON	$2
+"P	INum	C	"5	QA	$'
+"Q	INum	C	"4	QB	$&
+"R	INum	C	"3	QC	$%
+"S	INum	C	"2	QD	$$
